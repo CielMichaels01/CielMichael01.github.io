@@ -5,8 +5,7 @@ published: true
 ---
 ##
 
-**SMARTWATCHES AND HEALTHCARE**
-![]({{site.baseurl}}/_posts/Picture1.tif)![Picture1.tif]({{site.baseurl}}/_posts/Picture1.tif)
+
 
 
 ##Wearable devices smartwatches are quickly becoming an indispensable technology in the healthcare industry. Smartwatches can monitor an individual’s heart rate, sleep partners, and physical activity for patients. Healthcare providers are seeing a considerable incidence of chronic diseases, conditions that need long-term monitoring and management to prevent complications, which can often be prevented or delayed by a lifestyle change.  Doctors can then take that information and share it with your physician to gain valuable insight into a patient’s health to make changes that could improve your overall well-being.
